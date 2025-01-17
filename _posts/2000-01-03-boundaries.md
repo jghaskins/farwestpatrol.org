@@ -1,6 +1,6 @@
 ---
 title: "Boundaries"
-bg: yellow
+bg: gray
 color: black
 fa-icon: road
 ---
