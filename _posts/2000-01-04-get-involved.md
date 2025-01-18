@@ -1,7 +1,7 @@
 ---
 title: "Get Involved"
-bg: mediumblue
-color: white
+bg: lightyellow
+color: black
 fa-icon: users
 ---
 
