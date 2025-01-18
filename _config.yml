@@ -30,8 +30,9 @@ colors:
   gray:       '#a9adb6'
   offwhite:   '#e4e9f1'
   navy:       '#243b55'
-  yellow:     '#EDFF00'
-  lightyellow: '#e5e994'
+  yellow:     '#CAD229'
+  lightyellow: '#ecf39b'
+  darkyellow:  '#8d931c'
   mediumgray:  '#808080'
   darkgray:   '#656464'
 

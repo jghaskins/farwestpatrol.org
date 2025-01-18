@@ -1,6 +1,6 @@
 ---
 title: "Join Us"
-bg: lightyellow
+bg: darkyellow
 color: black
 fa-icon: users
 ---
