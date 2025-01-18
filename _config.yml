@@ -33,7 +33,7 @@ colors:
   yellow:     '#CAD229'
   lightyellow: '#ecf39b'
   darkyellow:  '#8d931c'
-  mediumgray:  '#808080'
+  mediumgray:  '#969696'
   darkgray:   '#656464'
 
 kramdown:
