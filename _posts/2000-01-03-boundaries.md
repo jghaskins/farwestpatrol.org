@@ -1,7 +1,7 @@
 ---
 title: "Boundaries"
-bg: gray
-color: black
+bg: darkgray
+color: white
 fa-icon: road
 ---
 

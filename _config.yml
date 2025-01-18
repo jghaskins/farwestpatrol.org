@@ -25,18 +25,15 @@ google_analytics_key:
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
   lightblue: '#76a3e6'
   mediumblue: '#3270c7'
   gray:       '#a9adb6'
   offwhite:   '#e4e9f1'
   navy:       '#243b55'
   yellow:     '#EDFF00'
-  lightyellow: '#8ba350'
+  lightyellow: '#e5e994'
+  mediumgray:  '#808080'
+  darkgray:   '#656464'
 
 kramdown:
   auto_ids:  false
