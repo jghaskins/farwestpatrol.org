@@ -36,6 +36,7 @@ colors:
   offwhite:   '#e4e9f1'
   navy:       '#243b55'
   yellow:     '#EDFF00'
+  lightyellow: '#E4ED98'
 
 kramdown:
   auto_ids:  false
