@@ -35,6 +35,7 @@ colors:
   darkyellow:  '#8d931c'
   mediumgray:  '#969696'
   darkgray:   '#656464'
+  blue:       '#003459'
 
 kramdown:
   auto_ids:  false
