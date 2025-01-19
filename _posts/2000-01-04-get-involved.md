@@ -4,9 +4,6 @@ bg: blue
 color: white
 fa-icon: users
 ---
-
-## Join Us
-
 To join the Far West Security Patrol, you will need to fill out an [application form](/files/radio-patrol-application.pdf) and undergo a background check conducted by the Detroit Police Department.
 
 If you download the application form, you can:
