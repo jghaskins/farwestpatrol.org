@@ -12,3 +12,4 @@ fa-icon: road
 * **East**: Parkland / Rouge Park
 * **West**: West Parkway / city limit
 
+![Far West Security Patrol boundary map](/img/boundaries.png)
