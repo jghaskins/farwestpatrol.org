@@ -45,10 +45,12 @@
         </div>
         {% endif %}
         <div class="container {{ page.style }}">
-	  <h2>{{ page.title }}</h2>      
-	    <div class="page-content">		
-              {{ page.content }}
-	    </div>	    
+          {% if page.title != "home" %}    
+	          <h2>{{ page.title }}</h2>   
+          {% endif %}   
+	        <div class="page-content">		
+               {{ page.content }}
+	        </div>	    
         </div>
       </div>
     {% endfor %}
