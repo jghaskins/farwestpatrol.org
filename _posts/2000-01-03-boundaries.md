@@ -14,4 +14,4 @@ fa-icon: road
 </section>
 <section class="boundaries-right">
 ![Far West Security Patrol boundary map](/img/boundaries.png)
-</div>
+</section>
