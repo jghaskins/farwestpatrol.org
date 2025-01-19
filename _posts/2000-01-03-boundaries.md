@@ -6,15 +6,12 @@ fa-icon: road
 ---
 
 ## Our Boundaries
-<div class="row align-items-start">
-
-<section class="col-12 col-sm-4">
+<section class="boundaries-left">
 * **North**: Meadow Park
 * **South**: Warren Ave.
 * **East**: Parkland / Rouge Park
 * **West**: West Parkway / city limit
 </section>
-<section class="col">
+<section class="boundaries-right">
 ![Far West Security Patrol boundary map](/img/boundaries.png)
-</section>
 </div>
