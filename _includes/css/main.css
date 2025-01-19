@@ -309,3 +309,12 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+@media only screen and (min-width: 768px) {
+  #boundaries .page-content {
+    display: flex;
+  }
+  #boundaries .page-content p {
+    margin-top:0;
+  }
+}
