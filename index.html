@@ -44,9 +44,11 @@
           <!--<h5 class="icon-title">{{ page.title }}</h5>-->
         </div>
         {% endif %}
-	<h2>{{ page.title }}</h2>      
         <div class="container {{ page.style }}">
-          {{ page.content }}
+	  <h2>{{ page.title }}</h2>      
+	    <div class="page-content">		
+              {{ page.content }}
+	    </div>	    
         </div>
       </div>
     {% endfor %}
